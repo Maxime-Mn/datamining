@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="DataURL" type="xstring" value="file:/home/barquette/knime-workspace/projet/flickr_data.csv"/>
+<entry key="DataURL" type="xstring" value="file:/home/bmarsaud/cours/4IFA/FD/data/flickr_data.csv"/>
 <config key="Delimiters">
 <config key="Delim0">
 <entry key="pattern" type="xstring" value="%%00010"/>
@@ -289,6 +289,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="bcd31f92-e3f3-4272-92f4-d6784e815c98"/>
+<entry key="file_store_id" type="xstring" value="94dc68d7-32b6-4e12-984b-c92a483bc1be"/>
 </config>
 </config>
